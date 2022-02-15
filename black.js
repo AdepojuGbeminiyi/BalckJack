@@ -8,7 +8,7 @@ let sumEl = document.getElementById("sum-el");
 let messageEl = document.getElementById("message-el");
 
 let player = {
-  name: "Emma",
+  name: "James",
   chips: 200,
 };
 
